@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Login Activity</string>
+    <string name="regForm">Registration Form</string>
+    <string name="logForm">Login Form</string>
+    <string name="home">Home</string>
+    <string name="firstName">First Name</string>
+    <string name="middleName">Middle Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="dateOfBirth">Date Of Birth</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="eMail">E-Mail</string>
+    <string name="nativePlace">Native Place</string>
+    <string name="password">Password</string>
+    <string name="cpassword">Confirm Password</string>
+    <string name="name">Image Name</string>
+    <string name="sign_in">Sign In</string>
+</resources>

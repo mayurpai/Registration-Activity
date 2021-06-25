@@ -1,0 +1,2 @@
+rootProject.name = "RegDB"
+include ':app'
